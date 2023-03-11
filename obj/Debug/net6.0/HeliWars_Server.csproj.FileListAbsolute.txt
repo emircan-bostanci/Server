@@ -1,0 +1,15 @@
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\bin\Debug\net6.0\HeliWars_Server.exe
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\bin\Debug\net6.0\HeliWars_Server.deps.json
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\bin\Debug\net6.0\HeliWars_Server.runtimeconfig.json
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\bin\Debug\net6.0\HeliWars_Server.dll
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\bin\Debug\net6.0\HeliWars_Server.pdb
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.csproj.AssemblyReference.cache
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.dll
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\refint\HeliWars_Server.dll
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.pdb
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\HeliWars_Server.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Belgeler\Projects\HeliWars_Server\obj\Debug\net6.0\ref\HeliWars_Server.dll

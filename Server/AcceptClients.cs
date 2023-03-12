@@ -5,6 +5,7 @@ namespace heliwars_server.Server;
 
 public class AcceptClients : IConnection<TcpListener>
 {
+    public List<TcpClient> clients = new List<TcpClient>();
    #region  Singleton
        private AcceptClients(){
 
@@ -28,6 +29,8 @@ public class AcceptClients : IConnection<TcpListener>
     {
         TcpListener listener = (TcpListener)ar.AsyncState;
         TcpClient client = listener.EndAcceptTcpClient(ar);
-        Console.WriteLine("New Connection From"+ ((uint)client.Client.RemoteEndPoint.AddressFamily));
+        Console.WriteLine("New Connection From "+ ((uint)client.Client.RemoteEndPoint.AddressFamily));
+        clients.Add(client);
+        listener.BeginAcceptTcpClient(new AsyncCallback(AcceptTcpClientCallback),listener); 
     }
 }
